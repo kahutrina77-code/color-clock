@@ -30,7 +30,7 @@ A beautiful, dynamic clock built with React and npm that displays the current da
 
 1. Clone this repository:
 ```bash
-   git clone [your-repository-url]
+   git clone git@github.com:kahutrina77-code/color-clock.git
    cd color-clock
 ```
 

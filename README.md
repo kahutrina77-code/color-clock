@@ -15,6 +15,11 @@ A beautiful, dynamic clock built with React and npm that displays the current da
 - date-fns (date formatting library)
 - CSS3 (styling)
 
+## Screenshots
+![color-clock](https://github.com/user-attachments/assets/91afbd00-0522-4036-8eb2-145893366c35)
+
+<img width="949" height="476" alt="image" src="https://github.com/user-attachments/assets/8e69cd3b-88f6-418b-b648-0c79c5627a10" />
+
 ## Installation Instructions
 
 ### Prerequisites

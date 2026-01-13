@@ -63,6 +63,7 @@ color-clock/
 
 ## Author
 Trina Kahu Luseno
+github: @kahutrina77-code
 
 ## License
 MIT
